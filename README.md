@@ -104,3 +104,11 @@ geom_boxplot(outlier.color = "yellow", fill = "blue", color = "dark blue", outli
 Outlier points = Yellow\
 Box Plot Fill = Blue\
 Box Plot Outline = Dark Blue
+
+# Directory:
+
+### [Go Back Home]()
+
+# Dataset Projects:
+
+[Gini Coefficient Dataset](https://portfoliognat.github.io/Gini/)
