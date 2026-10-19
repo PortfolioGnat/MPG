@@ -80,7 +80,7 @@ Once I enter the desired values in the "Manipulate" pop-up using the gear icon, 
 
 ## The visualization above shows how many miles per gallon a vehicle gets on the highway in relation to its class.
 
-This visualization was used to explore how color affects the legibility of information displayed. Key factors considered when creating this image included potential viewers with different types of color blindness. Here, the 3:1 color contrast ratio was utilized to help mitigate difficulties in perception of the data. This was done by utilizing colors that are far enough away from one another that those with impaired vision may see them without needing to change the color scale or scheme.
+This visualization was used to explore how color affects the legibility of information displayed. Key factors considered when creating this image included potential viewers with different types of color blindness. Here, the [3:1 color contrast ratio](https://webaim.org/resources/contrastchecker/) was utilized to help mitigate difficulties in perception of the data. This was done by utilizing colors that are far enough away from one another that those with impaired vision may see them without needing to change the color scale or scheme.
 
 ## Notes/Commentary:
 
