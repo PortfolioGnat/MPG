@@ -105,7 +105,6 @@ Try testing out the [color contrast ratio](https://webaim.org/resources/contrast
 The selected colors have color contrast ratios ranging from 3:1 to 10:1!
   > The bigger the contrast ratio, the better! Just make sure the colors stay cohesive and easy to interpret. There are quite a few things to consider when picking colors for a visualization.
 
-
 <img width="498" height="498" alt="loading car" src="https://github.com/user-attachments/assets/c24ff49e-2073-450b-9f2e-d3ff19f3a7a2" />
 
 </details>
