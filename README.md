@@ -76,12 +76,37 @@ This visualization was used to explore how color affects the legibility of infor
 ___
 ## RStudio Code for MPG Legibility:
 
-ggplot(data = mpg, aes(hwy, class)) +  
-geom_boxplot(outlier.color = "yellow", fill = "blue", color = "dark blue", outlier.shape = 1)
+ggplot(data = mpg, aes(hwy, class))
++ geom_boxplot(outlier.color = "yellow", fill = "blue", color = "dark blue", outlier.shape = 1)
+
 > This is the original code with the original colors. They are as follows;\
 Outlier points = Yellow\
 Box Plot Fill = Blue\
 Box Plot Outline = Dark Blue
+
+ggplot(data = mpg, aes(x = hwy, y = class)) + geom_boxplot(outlier.color = "darkblue", fill = "green4", color = "darkblue", outlier.shape = 1)
++ theme(plot.background = element_rect(fill = "white"), panel.background = element_rect(fill = "lightgrey", color = "black"))
+
+> This is the new code changes the colors from the original to;\
+Outlier points = Dark Blue\
+Box Plot Fill = Green4\
+Box Plot Outline = Dark Blue\
+There are now also added elements in this code that I included to practice changing the colors so I can have more control over the visual;\
+Plot Background = White (Color around the panel)\
+Panel Background = Light Grey (Where the actual plot is)\
+Panel Outline = Black (The outline of the panel)
+
+Try testing out the [color contrast ratio](https://webaim.org/resources/contrastchecker/) by inputting the colors that were used in the code! What is the ratio between the chosen colors?
+
+<details>
+<summary>Tips for collapsed sections</summary>
+### You can add a header
+You can add text within a collapsed section.
+You can add an image or a code block, too.
+```ruby
+   puts "Hello World"
+```
+</details>
 
 # Directory:
 
