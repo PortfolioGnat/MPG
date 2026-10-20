@@ -89,5 +89,5 @@ Box Plot Outline = Dark Blue
 
 # Dataset Projects:
 
-[Gini Coefficient Dataset](https://portfoliognat.github.io/Gini/)
+[Gini Coefficient Dataset](https://portfoliognat.github.io/Gini/)\
 [Map Datasets](https://portfoliognat.github.io/Maps/)
