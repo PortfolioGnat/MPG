@@ -99,13 +99,8 @@ Panel Outline = Black (The outline of the panel)
 Try testing out the [color contrast ratio](https://webaim.org/resources/contrastchecker/) by inputting the colors that were used in the code! What is the ratio between the chosen colors in the modified code?
 
 <details>
-<summary> ### Answer: </summary>
-### You can add a header
-You can add text within a collapsed section.
-You can add an image or a code block, too.
-```ruby
-   puts "Hello World"
-```
+<summary> Answer: </summary>
+The selected colors have color contrast ratios that range between 3:1 and 10:1!
 </details>
 
 # Directory:
