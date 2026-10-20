@@ -100,7 +100,9 @@ Try testing out the [color contrast ratio](https://webaim.org/resources/contrast
 
 <details>
 <summary> Answer: </summary>
-The selected colors have color contrast ratios that range between 3:1 and 10:1!
+The selected colors have color contrast ratios ranging from 3:1 to 10:1!
+  > The bigger the contrast ratio, the better! Just make sure the colors stay cohesive and easy to interpret. There are quite a few things to consider when picking colors for a visualization.
+  ![Alt text](https://tenor.com/view/loading-thinking-basil-cat-brain-loading-gif-6376499389578079223)
 </details>
 
 # Directory:
