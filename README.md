@@ -104,8 +104,8 @@ Try testing out the [color contrast ratio](https://webaim.org/resources/contrast
 
 The selected colors have color contrast ratios ranging from 3:1 to 10:1!
   > The bigger the contrast ratio, the better! Just make sure the colors stay cohesive and easy to interpret. There are quite a few things to consider when picking colors for a visualization.
-  
-  <div class="tenor-gif-embed" data-postid="6810651202878211592" data-share-method="host" data-aspect-ratio="1.06796" data-width="100%"><a href="https://tenor.com/view/livasmol-loading-cat-smol-gif-6810651202878211592">Livasmol Loading Cat GIF</a>from <a href="https://tenor.com/search/livasmol-gifs">Livasmol GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<div class="tenor-gif-embed" data-postid="9058940204877299631" data-share-method="host" data-aspect-ratio="1.2266" data-width="100%"><a href="https://tenor.com/view/cat-loading-cat-think-catexe-error-gif-9058940204877299631">Cat Loading Cat Think Meme</a>from <a href="https://tenor.com/search/cat+loading-memes">Cat Loading Memes</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 </details>
 
