@@ -96,10 +96,10 @@ Plot Background = White (Color around the panel)\
 Panel Background = Light Grey (Where the actual plot is)\
 Panel Outline = Black (The outline of the panel)
 
-Try testing out the [color contrast ratio](https://webaim.org/resources/contrastchecker/) by inputting the colors that were used in the code! What is the ratio between the chosen colors?
+Try testing out the [color contrast ratio](https://webaim.org/resources/contrastchecker/) by inputting the colors that were used in the code! What is the ratio between the chosen colors in the modified code?
 
 <details>
-<summary>Tips for collapsed sections</summary>
+<summary> ### Answer: </summary>
 ### You can add a header
 You can add text within a collapsed section.
 You can add an image or a code block, too.
