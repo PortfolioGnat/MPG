@@ -37,11 +37,14 @@ This visualization shows how to display information in a digestible, self-explan
 ___
 ## RStudio Code for MPG Example:
 
-data(mpg, package='ggplot2')
+data(mpg,package = "ggplot2")
 > This loads the dataset as a package
 
 help(mpg)
 > Displays the definitions of the abbreviations used in the columns of the dataset so that I could copy and paste said information.
+
+View(mpg)
+> Displays the dataset as a readable spreadsheet in the software.
 
 mplot(mpg)
 > Runs through the dataset and asks how you would like the information to be displayed, as shown:
