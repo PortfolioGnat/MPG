@@ -38,7 +38,7 @@ ___
 ## RStudio Code for MPG Example:
 
 data(mpg,package = "ggplot2")
-> This loads the dataset as a package
+> This loads the dataset as a package.
 
 help(mpg)
 > Displays the definitions of the abbreviations used in the columns of the dataset so that I could copy and paste said information.
@@ -54,7 +54,7 @@ mplot(mpg)
 > Select one by entering a value for the visualization you would like to create.
 
 Selection: 2
-> I chose the second value to produce a scatterplot
+> I chose the second value to produce a scatterplot.
 
 Once I enter the desired values in the "Manipulate" pop-up using the gear icon, the expression of the visualization is as follows:
 > gf_point(hwy ~ displ, data = mpg) |>\
