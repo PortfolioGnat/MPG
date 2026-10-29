@@ -97,12 +97,6 @@ Plot Background = White (Color around the panel)\
 Panel Background = Light Grey (Where the actual plot is)\
 Panel Outline = Black (The outline of the panel)
 
-install.packages("plotly")
-> This installs the plotly package so that we can create an interactive visualization that allows for text to appear when different elements are hovered over.
-
-library(plotly)
-> This allows us to utilize the now installed package from the last step and loads it into RStudio.
-
 Try testing out the [color contrast ratio](https://webaim.org/resources/contrastchecker/) by inputting the colors that were used in the code! What is the ratio between the chosen colors in the modified code?
 
 <details>
