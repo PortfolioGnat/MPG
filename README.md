@@ -79,9 +79,7 @@ This visualization was used to explore how color affects the legibility of infor
 ___
 ## RStudio Code for MPG Legibility:
 
-ggplot(data = mpg, aes(hwy, class)) +\
-geom_boxplot(outlier.color = "yellow", fill = "blue", color = "dark blue", outlier.shape = 1)
-
+ggplot(data = mpg, aes(hwy, class)) + geom_boxplot(outlier.color = "yellow", fill = "blue", color = "darkblue", outlier.shape = 1)
 > This is the original code with the original colors. They are as follows;\
 Outlier points = Yellow\
 Box Plot Fill = Blue\
