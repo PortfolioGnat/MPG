@@ -103,9 +103,6 @@ install.packages("plotly")
 library(plotly)
 > This allows us to utilize the now installed package from the last step and loads it into RStudio.
 
-commentary <- ggplot(data = mpg, aes(x = hwy, y = class)) + geom_boxplot(outlier.color = "darkblue", fill = "green4", color = "darkblue", outlier.shape = 1) + theme(plot.background = element_rect(fill = "white"), panel.background = element_rect(fill = "lightgrey", color = "black"))
-> This code is defining what part of the visualization is going to house interactive hover-text elements. I chose to use the whole visualization, but you could break it up, define multiple pieces, and assign different text types and/or colors!
-
 Try testing out the [color contrast ratio](https://webaim.org/resources/contrastchecker/) by inputting the colors that were used in the code! What is the ratio between the chosen colors in the modified code?
 
 <details>
